@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[52],{2052:function(e,n,t){t.r(n),t.d(n,{default:function(){return o}});var a="HomePage_container__S-kOo",r="HomePage_title__G4sQi",c=t(184);function o(){return(0,c.jsx)("main",{children:(0,c.jsx)("div",{className:a,children:(0,c.jsx)("h2",{className:r,children:"Phonebook App"})})})}}}]);
+//# sourceMappingURL=52.35fc38f5.chunk.js.map
