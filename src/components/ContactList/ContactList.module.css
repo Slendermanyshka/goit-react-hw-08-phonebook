@@ -1,0 +1,23 @@
+.list {
+  margin-bottom: 15px;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid black;
+  padding: 5px;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+button {
+  display: block;
+  padding: 8px 12px;
+  font-weight: var(--primary-font-weight);
+  border: 2px solid black;
+  cursor: pointer;
+}

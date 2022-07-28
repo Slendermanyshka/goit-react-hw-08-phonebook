@@ -1,0 +1,12 @@
+.header {
+  top: 0;
+  left: 0;
+  position: sticky;
+  z-index: 1100;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 80px;
+  margin-bottom: 16px;
+  border: 2px solid rgba(0, 0, 0, 1);
+}
